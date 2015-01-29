@@ -9,8 +9,6 @@ Tested up to: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
-
 A lightweight plugin that auto-populates an image's caption and alt text fields with its IPTC caption. It was originally build for http://artwolfe.com
 
 == Description ==
