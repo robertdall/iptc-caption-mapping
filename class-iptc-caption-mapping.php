@@ -3,10 +3,9 @@
  * IPTC Caption Mapping.
  *
  * @package   IPTC_Caption_Mapping
- * @author    32spokes <info@32spokes.com>
+ * @author    mandiwise & robertdall
  * @license   GPL-2.0+
- * @link      http://32spokes.com
- * @copyright 2014 32spokes
+ * @link      https://github.com/robertdall/iptc-caption-mapping
  */
 
 class IPTC_Caption_Mapping {
